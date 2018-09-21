@@ -1,5 +1,8 @@
 _repo: Glasgow-A-Sketch-Book_54354
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54354-h/images/cover.jpg
 creator:
   author:
     agent_name: Nisbet, John
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '9522'
     url: http://www.gutenberg.org/2009/agents/9522
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54354#Glasgow-A-Sketch-Book
 gutenberg_issued: '2017-03-13'
 gutenberg_type: Text
 identifiers:
